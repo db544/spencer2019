@@ -8,3 +8,10 @@ https://github.com/db544/spencer2019/tree/master/10_patient_gene_expression
 
 2. Father gene expression data (gene counts matrices, 10x)
 https://github.com/db544/spencer2019/tree/master/20_father_gene_expression
+
+
+
+***
+
+Data format is described here:
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/output/matrices
